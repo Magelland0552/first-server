@@ -1,0 +1,13 @@
+{
+  "name": "postgres-login-learning-app",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A small login website for learning Node.js and PostgreSQL",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.6.1",
+    "mongoose": "^9.11.2"
+  }
+}
